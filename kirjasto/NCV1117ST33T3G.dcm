@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCV1117ST33T3G
+D ON SEMICONDUCTOR - NCV1117ST33T3G - Fixed LDO Voltage Regulator, 20V in, 1.07V Dropout, 3.3V/1A out, SOT-223-3
+K
+F http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF
+$ENDCMP
+#
+#End Doc Library
